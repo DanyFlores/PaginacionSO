@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dany-/CLionProjects/Paginacion/list.h
+iostream
+-
+node.h
+C:/Users/dany-/CLionProjects/Paginacion/node.h
+
+C:/Users/dany-/CLionProjects/Paginacion/main.cpp
+iostream
+-
+stdlib.h
+-
+list.h
+C:/Users/dany-/CLionProjects/Paginacion/list.h
+
+C:/Users/dany-/CLionProjects/Paginacion/node.h
+iostream
+-
+

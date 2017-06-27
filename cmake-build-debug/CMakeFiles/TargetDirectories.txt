@@ -1,0 +1,3 @@
+C:/Users/dany-/CLionProjects/Paginacion/cmake-build-debug/CMakeFiles/Paginacion.dir
+C:/Users/dany-/CLionProjects/Paginacion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dany-/CLionProjects/Paginacion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
